@@ -262,3 +262,7 @@ Hunk entries look like `{ type = "add"|"delete", line = number, content = string
 - Tracks normal file buffers with a path on disk; skips special buffers.
 - Diff is unstaged working tree vs index (same as `git diff <file>`).
 - Count on `]c` / `[c` repeats navigation (`3]c` = three hunks).
+
+## Disclosure
+
+- This plugin was moslty developed using LLMs, because other alternatives didn't seem to fit my needs (and/ or due to skill issues).
